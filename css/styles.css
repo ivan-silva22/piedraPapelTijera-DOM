@@ -1,0 +1,14 @@
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+.btn{
+    width: 20%;
+    height: 60px;
+} 
+
+@media screen and (max-width: 767px){
+    .btn{
+        width: 25%;
+    }
+}
+
